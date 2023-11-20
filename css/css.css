@@ -213,14 +213,14 @@ a {
 }
 .learn_text {
   float: left;
-  width: 520px;
+  width: 500px;
   height: 692px;
   background-color: rgb(255, 255, 255);
   border-radius: 20px;
-  padding: 10px;
+  padding: 20px;
   margin-right: 20px;
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 30px;
+  line-height: 50px;
 
 
 }
